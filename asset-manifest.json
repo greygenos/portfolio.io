@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.9bfd21c9.css",
-    "main.js": "/react-portfolio/static/js/main.682d9980.js",
+    "main.css": "/react-portfolio/static/css/main.a520954a.css",
+    "main.js": "/react-portfolio/static/js/main.2048e91b.js",
     "static/media/reylogo.png": "/react-portfolio/static/media/reylogo.5c9d46c6867ce7de91c1.png",
     "static/media/workImg.jpeg": "/react-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -14,11 +14,11 @@
     "static/media/realestate.jpg": "/react-portfolio/static/media/realestate.d7ca778dab8627eb7374.jpg",
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
-    "main.9bfd21c9.css.map": "/react-portfolio/static/css/main.9bfd21c9.css.map",
-    "main.682d9980.js.map": "/react-portfolio/static/js/main.682d9980.js.map"
+    "main.a520954a.css.map": "/react-portfolio/static/css/main.a520954a.css.map",
+    "main.2048e91b.js.map": "/react-portfolio/static/js/main.2048e91b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bfd21c9.css",
-    "static/js/main.682d9980.js"
+    "static/css/main.a520954a.css",
+    "static/js/main.2048e91b.js"
   ]
 }
