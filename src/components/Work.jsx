@@ -1,6 +1,10 @@
 import React from 'react'
 import workImg from "../assets/workImg.jpeg"
 import realEstate from "../assets/realestate.jpg"
+import gensan from "../assets/gensan.PNG"
+import counter from "../assets/counter.jpg"
+import todo from "../assets/todo.png"
+import calcu from "../assets/calcu.jpg"
 
 const Work = () => {
   return (
@@ -13,7 +17,7 @@ const Work = () => {
 {/* Container */}
             <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>   
 {/* Grid-items */}                         
-                <div style={{backgroundImage:`url(${workImg})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
+                <div style={{backgroundImage:`url(${gensan  })`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
                    
                    {/* Hover Effects */}
                     <div className="opacity-0 group-hover:opacity-100">
@@ -31,7 +35,7 @@ Local web
                     </div>
                 </div>
                 {/* Grid-items */}                         
-                <div style={{backgroundImage:`url(${realEstate})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
+                <div style={{backgroundImage:`url(${counter})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
                    
                    {/* Hover Effects */}
                     <div className="opacity-0 group-hover:opacity-100">
@@ -49,7 +53,7 @@ React Counter
                     </div>
                 </div>
                 {/* Grid-items */}                         
-                <div style={{backgroundImage:`url(${workImg})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
+                <div style={{backgroundImage:`url(${realEstate})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
                    
                    {/* Hover Effects */}
                     <div className="opacity-0 group-hover:opacity-100">
@@ -67,7 +71,7 @@ React JS Application
                     </div>
                 </div>
                 {/* Grid-items */}                         
-                <div style={{backgroundImage:`url(${realEstate})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
+                <div style={{backgroundImage:`url(${todo})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
                    
                    {/* Hover Effects */}
                     <div className="opacity-0 group-hover:opacity-100">
@@ -103,7 +107,7 @@ Real Estate Application
                     </div>
                 </div>
                 {/* Grid-items */}                         
-                <div style={{backgroundImage:`url(${realEstate})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
+                <div style={{backgroundImage:`url(${calcu})`}} className= "shadow-lg shadow[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
                    
                    {/* Hover Effects */}
                     <div className="opacity-0 group-hover:opacity-100">
