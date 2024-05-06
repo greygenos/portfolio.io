@@ -16,7 +16,7 @@ const About = () => {
                 </div>
                 <div>
                     <p>
-                        I am passionate in building highly, maintainable, testable, scalable, and efficient software systems ans web pages. I never contented and always willing to explore and expand to new technologies.
+                        I am passionate in building highly, maintainable, and efficient software systems ans web pages. I never contented and always willing to explore and expand to new technologies.
                     </p>
                 </div>
             </div>
